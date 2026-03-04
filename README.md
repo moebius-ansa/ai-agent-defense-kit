@@ -95,6 +95,10 @@ Edit the relevant SKILL.md to add new red flags under the appropriate category.
 Create a new folder with:
 - `SKILL.md` - The skill definition with analysis framework
 
+## Support This Project
+
+If these tools help protect your agents, please ⭐ star this repo. It helps others discover these security skills and keeps the project visible.
+
 ## License
 
 MIT - Use freely, contribute back.
